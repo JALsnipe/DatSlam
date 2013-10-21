@@ -10,4 +10,5 @@ time.  Maybe someday I'll be able to revisit all of these old projects...
 
 Sites in action on my Columbia University webserver:
 DatSlam (YouTube): http://www.columbia.edu/~jal2238/datslam/datslam2.html
-DatSoundCloudSlam (SoundCloud): http://www.columbia.edu/~jal2238/datslam/datsoundcloudslam.html
+DatSoundCloudSlam (SoundCloud):
+http://www.columbia.edu/~jal2238/datslam/datsoundcloudslam.html
